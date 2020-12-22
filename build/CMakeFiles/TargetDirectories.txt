@@ -1,3 +1,0 @@
-/mnt/usb2/fake_node/build/CMakeFiles/rebuild_cache.dir
-/mnt/usb2/fake_node/build/CMakeFiles/edit_cache.dir
-/mnt/usb2/fake_node/build/CMakeFiles/main.dir
