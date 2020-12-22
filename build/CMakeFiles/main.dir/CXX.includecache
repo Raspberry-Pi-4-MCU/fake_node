@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/usb2/fake_node/src/node.cpp
+node.hpp
+/mnt/usb2/fake_node/src/node.hpp
+
+/mnt/usb2/fake_node/src/node.hpp
+nlohmann/json.hpp
+-
+sockpp/tcp_connector.h
+/mnt/usb2/fake_node/src/sockpp/tcp_connector.h
+sockpp/version.h
+/mnt/usb2/fake_node/src/sockpp/version.h
+thread
+-
+cstring
+-
+string
+-
+chrono
+-
+unistd.h
+-
+
